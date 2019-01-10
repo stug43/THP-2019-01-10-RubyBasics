@@ -13,10 +13,12 @@ Ce rendu est le rendu de l'un d'entre nous.
 --------------------------------------------
 
 Raphaël - Cinelli - Raphaël Cinelli - grandsoleil
-Rémy - Aubert - Rémy - remyaub - 
+
+Rémy - Aubert - Rémy - remyaub  
+
 Thibaut - Miquel - Thibaut Miquel - tmiquel
 
-Participants 
+Structure du dossier 
 ==========
 
 	repo
